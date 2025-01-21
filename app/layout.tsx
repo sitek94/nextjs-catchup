@@ -1,5 +1,5 @@
-import '#/app/globals.css'
-import { inter } from '#/app/ui/fonts'
+import '@/app/globals.css'
+import { inter } from '@/app/ui/fonts'
 import { PropsWithChildren } from 'react'
 
 export default function RootLayout({ children }: PropsWithChildren) {

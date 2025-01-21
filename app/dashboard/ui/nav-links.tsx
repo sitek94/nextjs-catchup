@@ -1,6 +1,6 @@
 'use client'
 
-import { cn } from '#/app/ui/utils/cn'
+import { cn } from '@/app/ui/utils/cn'
 import {
   UserGroupIcon,
   HomeIcon,
