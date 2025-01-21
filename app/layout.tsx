@@ -1,13 +1,11 @@
-import './globals.css'
+import '#/app/globals.css'
+import { inter } from '#/app/ui/fonts'
+import { PropsWithChildren } from 'react'
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function RootLayout({ children }: PropsWithChildren) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body className={`${inter.className} antialiased`}>{children}</body>
     </html>
   )
 }
