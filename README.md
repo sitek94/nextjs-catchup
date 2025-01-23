@@ -1,6 +1,10 @@
-# Habits
+# Next.js Catchup
 
 Just checking what's up with Next.js
+
+## To read:
+
+- [ ] https://nextjs.org/docs/app/api-reference/functions/use-router#userouter - multiple methods for navigating between routes
 
 ## Getting Started
 
