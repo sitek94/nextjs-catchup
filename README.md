@@ -5,6 +5,9 @@ Just checking what's up with Next.js
 ## To read:
 
 - [ ] https://nextjs.org/docs/app/api-reference/functions/use-router#userouter - multiple methods for navigating between routes
+- [ ] https://nextjs.org/docs/app/building-your-application/caching - caching
+- [ ] https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#1-prefetching - prefetching
+- [ ] https://nextjs.org/blog/security-nextjs-server-components-actions - security with Server Actions
 
 ## Getting Started
 
