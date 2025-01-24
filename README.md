@@ -8,6 +8,8 @@ Just checking what's up with Next.js
 - [ ] https://nextjs.org/docs/app/building-your-application/caching - caching
 - [ ] https://nextjs.org/docs/app/building-your-application/routing/linking-and-navigating#1-prefetching - prefetching
 - [ ] https://nextjs.org/blog/security-nextjs-server-components-actions - security with Server Actions
+- [ ] https://nextjs.org/docs/app/building-your-application/routing/error-handling - error handling
+  - [ ] https://nextjs.org/docs/app/api-reference/functions/not-found - notFound()
 
 ## Getting Started
 
