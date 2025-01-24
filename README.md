@@ -10,6 +10,7 @@ Just checking what's up with Next.js
 - [ ] https://nextjs.org/blog/security-nextjs-server-components-actions - security with Server Actions
 - [ ] https://nextjs.org/docs/app/building-your-application/routing/error-handling - error handling
   - [ ] https://nextjs.org/docs/app/api-reference/functions/not-found - notFound()
+- [ ] https://authjs.dev/getting-started/providers - next auth providers
 
 ## Getting Started
 
